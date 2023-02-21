@@ -11,11 +11,8 @@ npm install react-native-input-library
 ## Usage
 
 ```js
-import { multiply } from 'react-native-input-library';
+import CustomInput from 'react-native-input-library';
 
-// ...
-
-const result = await multiply(3, 7);
 ```
 
 ## Contributing
